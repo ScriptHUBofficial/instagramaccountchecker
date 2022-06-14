@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\crackturkey\crackturkey\bin\Debug\crackturkey.exe.config
+C:\Users\pc\source\repos\crackturkey\crackturkey\bin\Debug\crackturkey.exe
+C:\Users\pc\source\repos\crackturkey\crackturkey\bin\Debug\crackturkey.pdb
+C:\Users\pc\source\repos\crackturkey\crackturkey\bin\Debug\Colorful.Console.dll
+C:\Users\pc\source\repos\crackturkey\crackturkey\bin\Debug\Leaf.xNet.dll
+C:\Users\pc\source\repos\crackturkey\crackturkey\bin\Debug\xNet.dll
+C:\Users\pc\source\repos\crackturkey\crackturkey\obj\Debug\crackturkey.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\crackturkey\crackturkey\obj\Debug\crackturkey.Properties.Resources.resources
+C:\Users\pc\source\repos\crackturkey\crackturkey\obj\Debug\crackturkey.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\crackturkey\crackturkey\obj\Debug\crackturkey.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\crackturkey\crackturkey\obj\Debug\crackturkey.csproj.CopyComplete
+C:\Users\pc\source\repos\crackturkey\crackturkey\obj\Debug\crackturkey.exe
+C:\Users\pc\source\repos\crackturkey\crackturkey\obj\Debug\crackturkey.pdb
